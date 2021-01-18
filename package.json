@@ -1,0 +1,37 @@
+{
+  "name": "bookkeeping",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "better-scroll": "^2.0.5",
+    "core-js": "^3.6.5",
+    "sass": "^1.29.0",
+    "vant": "^2.10.13",
+    "vue": "^2.6.11",
+    "vue-clipboard2": "^0.3.1",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "autoprefixer": "^9.7.6",
+    "babel-plugin-import": "^1.13.1",
+    "compression-webpack-plugin": "^6.1.0",
+    "node-sass": "^5.0.0",
+    "postcss-loader": "^3.0.0",
+    "postcss-px2rem-exclude": "^0.0.6",
+    "px2rem-loader": "^0.1.9",
+    "sass-loader": "^10.0.5",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
